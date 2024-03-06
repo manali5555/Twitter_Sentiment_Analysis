@@ -60,6 +60,8 @@ Ensure you have Python installed on your machine. Then, install the required pac
 ```bash
 pip install pandas numpy matplotlib seaborn sentence_transformers xgboost scikit-learn lime
 
-## Author
+
+
+**## Author**
 Manali Ramchandani..
 
