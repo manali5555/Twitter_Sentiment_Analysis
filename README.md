@@ -1,6 +1,6 @@
 # Twitter_Sentiment_Analysis
 
-![IMG_1207](/IMG_1207.PNG)
+![IMG_1207](/IMG_1207.PNG"")
 
 
 This project focuses on analyzing the sentiment of tweets as positive, negative, or neutral on a kaggle dataset related to various entities using a machine learning pipeline. It utilizes advanced NLP techniques and a gradient boosting classifier to predict the sentiment of tweets as positive, negative, or neutral.
